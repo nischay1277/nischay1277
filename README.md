@@ -4,7 +4,7 @@ I’m a computer science student interested in backend development and machine l
 
 ## What I build
 
-I build REST APIs, data validation tools, and AI applications for document retrieval and speech processing. I also build web interfaces for reviewing results and use automated tests and repeatable evaluations to measure changes.
+I build  AI applications for document retrieval and speech processing. I also build web interfaces for reviewing results and use automated tests and repeatable evaluations to measure changes.
 
 ## Technologies I use
 
